@@ -3,7 +3,7 @@
 @section('title', 'Login')
 
 @section('content')
-<div class="min-h-screen flex items-center justify-center bg-gradient-to-r from-indigo-300 via-purple-300 to-pink-400 dark:from-gray-800 dark:via-gray-900 dark:to-gray-800 rounded-xl">
+<div class="min-h-screen flex items-center justify-center bg-gradient-to-r from-indigo-300 via-purple-300 to-pink-400 dark:from-gray-800 dark:via-gray-900 dark:to-gray-800">
     <div class="w-full max-w-md p-8 bg-white dark:bg-gray-700 shadow-lg rounded-xl">
         <h1 class="text-4xl font-extrabold text-gray-900 dark:text-white text-center mb-6">
             Welcome Back!

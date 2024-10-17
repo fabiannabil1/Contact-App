@@ -7,15 +7,15 @@
     </div>
 
     <div class="flex gap-8">
-      <a href="/login"
+      <a href="/"
          class="text-white text-lg hover:text-blue-300 hover:underline underline-offset-4 transition duration-300">
          Login
       </a>
-      <a href="/login"
+      <a href="/"
          class="text-white text-lg hover:text-blue-300 hover:underline underline-offset-4 transition duration-300">
          Register
       </a>
-      <a href="/contact"
+      <a href="/"
          class="text-white text-lg hover:text-blue-300 hover:underline underline-offset-4 transition duration-300">
          Contact Us
       </a>

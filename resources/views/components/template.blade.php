@@ -11,11 +11,9 @@
 
 <body>
     @include('components.nav')
-
     <div>
         @yield('content')
     </div>
-
 </body>
 
 </html>
