@@ -1,5 +1,4 @@
 @extends('components.template')
-
 @section('title', 'Homepage')
 
 @section('content')
@@ -107,6 +106,8 @@
         </section>
     </div>
 </div>
+
+
 
 <script>
     const searchInputDsn = document.getElementById("search-input-dsn");
