@@ -22,7 +22,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach ($contacts as $contact)
+                    @foreach ($contacts_dosen as $contact)
                         <tr class="odd:bg-gray-100 even:bg-white hover:bg-gray-50">
                             <td class="py-3 px-4 border border-gray-300">{{ $loop->iteration }}</td>
                             <td class="py-3 px-4 border border-gray-300">{{ $contact['name'] }}</td>
